@@ -20,6 +20,7 @@ pageClass: device-page
 | Description | Zigbee & Z-wave dimmer |
 | Exposes | light (state, brightness), power_on_behavior, linkquality |
 | Picture | ![EcoDim Eco-Dim.07/Eco-Dim.10](https://www.zigbee2mqtt.io/images/devices/Eco-Dim.07-Eco-Dim.10.jpg) |
+| White-label | HZC D076-ZG |
 
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
